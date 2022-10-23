@@ -13,9 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/a', function () {
-    return view('welcome');
-});
 Route::get('/', function () {
-    return 'ameen';
+    return view('edraak');
+});
+Route::get('/w', function () {
+    return 'welcome';
 });
