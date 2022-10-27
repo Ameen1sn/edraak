@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Welcome! My name is: ameen sanad alkhadra .. This is the Production Environment</h1>
+    <h1>Welcome! My name is: ameen sanad alkhadra .. This is the <strong> Staging </strong>Environment</h1>
 </body>
 </html>
